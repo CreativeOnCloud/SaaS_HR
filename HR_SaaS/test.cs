@@ -9,6 +9,6 @@ namespace HR_SaaS
     class test
     {
 
-        public string b3was2 { get; set; }
+        public string b3was3 { get; set; }
     }
 }
